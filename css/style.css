@@ -3,5 +3,14 @@
   }
 
 li {
-  padding-bottom: 0.5rem;
+  padding-top: 0.5rem;
+}
+
+em {
+  padding-left: 1rem;
+  color: rgb(161, 161, 161);
+}
+
+a.hidden-link {
+  color: #212529;
 }
